@@ -64,3 +64,12 @@ The objective of this project is to contribute to the solution of the problem of
 •	To allow good documentation about the donor and its blood donation activities.
 •	Support fast searching to find match blood bags for the right person
 •	Option for sending blood request to
+
+
+
+![image](https://github.com/Om1502/Jivandhara/assets/97721957/6c7bba80-1941-4dcb-b9be-6c384a60af0d)
+
+![image](https://github.com/Om1502/Jivandhara/assets/97721957/473f0624-9d37-4a42-939e-e02eb94ce2be)
+
+
+
